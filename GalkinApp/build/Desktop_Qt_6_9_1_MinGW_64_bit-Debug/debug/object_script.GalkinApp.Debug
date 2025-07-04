@@ -1,0 +1,12 @@
+debug/main.o
+debug/converterjson.o
+debug/invertedindex.o
+debug/searchserver.o
+debug/converterjson.o
+debug/invertedindex.o
+debug/main.o
+debug/searchserver.o
+debug/testmain.o
+debug/testsearchengine.o
+debug/qrc_resources.o
+debug/moc_testsearchengine.o
